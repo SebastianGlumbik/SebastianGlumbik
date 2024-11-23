@@ -12,7 +12,7 @@ Student from Ostrava, Czechia
 - 💡 I enjoy learning about new technologies, especially in the field of computer security.
 ## Languages and technologies
 During my studies, I encountered many programming languages, but my favorites are Rust and C#.
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
